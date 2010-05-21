@@ -1,0 +1,243 @@
+AS	AF	AFG	004	Afghanistan
+EU	AL	ALB	008	Albania
+AF	DZ	DZA	012	Algeria
+OC	AS	ASM	016	American Samoa
+EU	AD	AND	020	Andorra
+AF	AO	AGO	024	Angola
+SA	AI	AIA	660	Anguilla
+AN	AQ			Antarctica
+SA	AG	ATG	028	Antigua and Barbuda
+SA	AR	ARG	032	Argentina
+AS	AM	ARM	051	Armenia
+SA	AW	ABW	533	Aruba
+OC	AU	AUS	036	Australia
+EU	AT	AUT	040	Austria
+AS	AZ	AZE	031	Azerbaijan
+SA	BS	BHS	044	Bahamas
+AS	BH	BHR	048	Bahrain
+AS	BD	BGD	050	Bangladesh
+SA	BB	BRB	052	Barbados
+EU	BY	BLR	112	Belarus
+EU	BE	BEL	056	Belgium
+SA	BZ	BLZ	084	Belize
+AF	BJ	BEN	204	Benin
+SA	BM	BMU	060	Bermuda
+AS	BT	BTN	064	Bhutan
+SA	BO	BOL	068	Bolivia
+EU	BA	BIH	070	Bosnia and Herzegovina
+AF	BW	BWA	072	Botswana
+AF	BV			Bouvet Island
+SA	BR	BRA	076	Brazil
+AS	IO			British Indian Ocean Territory
+AS	BN	BRN	096	Brunei Darussalam
+EU	BG	BGR	100	Bulgaria
+AF	BF	BFA	854	Burkina Faso
+AF	BI	BDI	108	Burundi
+AS	KH	KHM	116	Cambodia
+AF	CM	CMR	120	Cameroon
+NA	CA	CAN	124	Canada
+AF	CV	CPV	132	Cape Verde
+SA	KY	CYM	136	Cayman Islands
+AF	CF	CAF	140	Central African Republic
+AF	TD	TCD	148	Chad
+SA	CL	CHL	152	Chile
+AS	CN	CHN	156	China
+AS	CX			Christmas Island
+AS	CC			Cocos (Keeling) Islands
+SA	CO	COL	170	Colombia
+AF	KM	COM	174	Comoros
+AF	CG	COG	178	Congo
+AF	CD	COD	180	Congo, the Democratic Republic of the
+OC	CK	COK	184	Cook Islands
+SA	CR	CRI	188	Costa Rica
+AF	CI	CIV	384	Cote D'Ivoire
+EU	HR	HRV	191	Croatia
+SA	CU	CUB	192	Cuba
+AS	CY	CYP	196	Cyprus
+EU	CZ	CZE	203	Czech Republic
+EU	DK	DNK	208	Denmark
+AF	DJ	DJI	262	Djibouti
+SA	DM	DMA	212	Dominica
+SA	DO	DOM	214	Dominican Republic
+SA	EC	ECU	218	Ecuador
+AF	EG	EGY	818	Egypt
+SA	SV	SLV	222	El Salvador
+AF	GQ	GNQ	226	Equatorial Guinea
+AF	ER	ERI	232	Eritrea
+EU	EE	EST	233	Estonia
+AF	ET	ETH	231	Ethiopia
+SA	FK	FLK	238	Falkland Islands (Malvinas)
+EU	FO	FRO	234	Faroe Islands
+OC	FJ	FJI	242	Fiji
+EU	FI	FIN	246	Finland
+EU	FR	FRA	250	France
+SA	GF	GUF	254	French Guiana
+OC	PF	PYF	258	French Polynesia
+AF	TF			French Southern Territories
+AF	GA	GAB	266	Gabon
+AF	GM	GMB	270	Gambia
+AS	GE	GEO	268	Georgia
+EU	DE	DEU	276	Germany
+AF	GH	GHA	288	Ghana
+EU	GI	GIB	292	Gibraltar
+EU	GR	GRC	300	Greece
+SA	GL	GRL	304	Greenland
+SA	GD	GRD	308	Grenada
+SA	GP	GLP	312	Guadeloupe
+OC	GU	GUM	316	Guam
+SA	GT	GTM	320	Guatemala
+EU	GG			Guernsey
+AF	GN	GIN	324	Guinea
+AF	GW	GNB	624	Guinea-Bissau
+SA	GY	GUY	328	Guyana
+SA	HT	HTI	332	Haiti
+AF	HM			Heard Island and Mcdonald Islands
+EU	VA	VAT	336	Holy See (Vatican City State)
+SA	HN	HND	340	Honduras
+AS	HK	HKG	344	Hong Kong
+EU	HU	HUN	348	Hungary
+EU	IS	ISL	352	Iceland
+AS	IN	IND	356	India
+AS	ID	IDN	360	Indonesia
+AS	IR	IRN	364	Iran, Islamic Republic of
+AS	IQ	IRQ	368	Iraq
+EU	IE	IRL	372	Ireland
+EU	IM			Isle of Man
+AS	IL	ISR	376	Israel
+EU	IT	ITA	380	Italy
+SA	JM	JAM	388	Jamaica
+AS	JP	JPN	392	Japan
+AS	JO	JOR	400	Jordan
+AS	KZ	KAZ	398	Kazakhstan
+AF	KE	KEN	404	Kenya
+OC	KI	KIR	296	Kiribati
+AS	KP	PRK	408	Korea, Democratic People's Republic of
+AS	KR	KOR	410	Korea, Republic of
+AS	KW	KWT	414	Kuwait
+AS	KG	KGZ	417	Kyrgyzstan
+AS	LA	LAO	418	Lao People's Democratic Republic
+EU	LV	LVA	428	Latvia
+AS	LB	LBN	422	Lebanon
+AF	LS	LSO	426	Lesotho
+AF	LR	LBR	430	Liberia
+AF	LY	LBY	434	Libyan Arab Jamahiriya
+EU	LI	LIE	438	Liechtenstein
+EU	LT	LTU	440	Lithuania
+EU	LU	LUX	442	Luxembourg
+AS	MO	MAC	446	Macao
+EU	MK	MKD	807	Macedonia, the Former Yugoslav Republic of
+AF	MG	MDG	450	Madagascar
+AF	MW	MWI	454	Malawi
+AS	MY	MYS	458	Malaysia
+AS	MV	MDV	462	Maldives
+AF	ML	MLI	466	Mali
+EU	MT	MLT	470	Malta
+OC	MH	MHL	584	Marshall Islands
+SA	MQ	MTQ	474	Martinique
+AF	MR	MRT	478	Mauritania
+AF	MU	MUS	480	Mauritius
+AF	YT			Mayotte
+NA	MX	MEX	484	Mexico
+OC	FM	FSM	583	Micronesia, Federated States of
+EU	MD	MDA	498	Moldova, Republic of
+EU	MC	MCO	492	Monaco
+EU	ME			Montenegro
+AS	MN	MNG	496	Mongolia
+SA	MS	MSR	500	Montserrat
+AF	MA	MAR	504	Morocco
+AF	MZ	MOZ	508	Mozambique
+AS	MM	MMR	104	Myanmar
+AF	NA	NAM	516	Namibia
+OC	NR	NRU	520	Nauru
+AS	NP	NPL	524	Nepal
+EU	NL	NLD	528	Netherlands
+SA	AN	ANT	530	Netherlands Antilles
+OC	NC	NCL	540	New Caledonia
+OC	NZ	NZL	554	New Zealand
+SA	NI	NIC	558	Nicaragua
+AF	NE	NER	562	Niger
+AF	NG	NGA	566	Nigeria
+OC	NU	NIU	570	Niue
+OC	NF	NFK	574	Norfolk Island
+OC	MP	MNP	580	Northern Mariana Islands
+EU	NO	NOR	578	Norway
+AS	OM	OMN	512	Oman
+AS	PK	PAK	586	Pakistan
+OC	PW	PLW	585	Palau
+AS	PS			Palestinian Territory, Occupied
+SA	PA	PAN	591	Panama
+OC	PG	PNG	598	Papua New Guinea
+SA	PY	PRY	600	Paraguay
+SA	PE	PER	604	Peru
+AS	PH	PHL	608	Philippines
+OC	PN	PCN	612	Pitcairn
+EU	PL	POL	616	Poland
+EU	PT	PRT	620	Portugal
+SA	PR	PRI	630	Puerto Rico
+AS	QA	QAT	634	Qatar
+AF	RE	REU	638	Reunion
+EU	RO	ROM	642	Romania
+AS	RU	RUS	643	Russian Federation
+AF	RW	RWA	646	Rwanda
+AF	SH	SHN	654	Saint Helena
+SA	KN	KNA	659	Saint Kitts and Nevis
+SA	LC	LCA	662	Saint Lucia
+SA	PM	SPM	666	Saint Pierre and Miquelon
+SA	VC	VCT	670	Saint Vincent and the Grenadines
+OC	WS	WSM	882	Samoa
+EU	SM	SMR	674	San Marino
+AF	ST	STP	678	Sao Tome and Principe
+AS	SA	SAU	682	Saudi Arabia
+AF	SN	SEN	686	Senegal
+EU	RS			Serbia
+EU	CS			Serbia and Montenegro
+AF	SC	SYC	690	Seychelles
+AF	SL	SLE	694	Sierra Leone
+AS	SG	SGP	702	Singapore
+EU	SK	SVK	703	Slovakia
+EU	SI	SVN	705	Slovenia
+OC	SB	SLB	090	Solomon Islands
+AF	SO	SOM	706	Somalia
+AF	ZA	ZAF	710	South Africa
+SA	GS			South Georgia and the South Sandwich Islands
+EU	ES	ESP	724	Spain
+AS	LK	LKA	144	Sri Lanka
+AF	SD	SDN	736	Sudan
+SA	SR	SUR	740	Suriname
+EU	SJ	SJM	744	Svalbard and Jan Mayen
+AF	SZ	SWZ	748	Swaziland
+EU	SE	SWE	752	Sweden
+EU	CH	CHE	756	Switzerland
+AS	SY	SYR	760	Syrian Arab Republic
+AS	TW	TWN	158	Taiwan, Province of China
+AS	TJ	TJK	762	Tajikistan
+AF	TZ	TZA	834	Tanzania, United Republic of
+AS	TH	THA	764	Thailand
+OC	TL			Timor-Leste
+AF	TG	TGO	768	Togo
+OC	TK	TKL	772	Tokelau
+OC	TO	TON	776	Tonga
+SA	TT	TTO	780	Trinidad and Tobago
+AF	TN	TUN	788	Tunisia
+AS	TR	TUR	792	Turkey
+AS	TM	TKM	795	Turkmenistan
+SA	TC	TCA	796	Turks and Caicos Islands
+OC	TV	TUV	798	Tuvalu
+AF	UG	UGA	800	Uganda
+EU	UA	UKR	804	Ukraine
+AS	AE	ARE	784	United Arab Emirates
+EU	GB	GBR	826	United Kingdom
+NA	US	USA	840	United States
+OC	UM			United States Minor Outlying Islands
+SA	UY	URY	858	Uruguay
+AS	UZ	UZB	860	Uzbekistan
+OC	VU	VUT	548	Vanuatu
+SA	VE	VEN	862	Venezuela
+AS	VN	VNM	704	Viet Nam
+SA	VG	VGB	092	Virgin Islands, British
+SA	VI	VIR	850	Virgin Islands, U.s.
+OC	WF	WLF	876	Wallis and Futuna
+AF	EH	ESH	732	Western Sahara
+AS	YE	YEM	887	Yemen
+AF	ZM	ZMB	894	Zambia
+AF	ZW	ZWE	716	Zimbabwe

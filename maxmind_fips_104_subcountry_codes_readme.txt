@@ -1,0 +1,1 @@
+maxmind_fips_104_subcountry_codes updated 2009-04-01

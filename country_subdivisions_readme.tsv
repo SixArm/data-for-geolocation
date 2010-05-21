@@ -1,0 +1,33 @@
+= Subcountries Tab Delimited File
+
+ISO 3166-2 details from Wikipedia:
+
+ISO 3166-2 is part of the ISO 3166 standard published by 
+the International Organization for Standardization (ISO), 
+and defines codes for the names of the principal subdivisions 
+(e.g., provinces or states) of all countries coded in ISO 3166-1. 
+
+The purpose of ISO 3166-2 is to establish an international 
+standard of short and unique alphanumeric codes to represent 
+the relevant administrative divisions of all countries in a 
+more convenient and less ambiguous form than their full names. 
+
+Each ISO 3166-2 code consists of two parts, separated by a hyphen:
+The first part is the ISO 3166-1 alpha-2 code of the country;
+The second part is a string of up to three alphanumeric characters, 
+which is usually obtained from national sources and stems from coding 
+systems already in use in the country concerned, but may also be 
+developed by the ISO 3166 Maintenance Agency (ISO 3166/MA) itself.
+
+Each complete ISO 3166-2 code can then be used to uniquely identify 
+a country subdivision in a global context. Currently there are more 
+than 4200 codes defined in ISO 3166-2.[1]
+
+See http://en.wikipedia.org/wiki/ISO_3166-2
+
+Columns:
+ - ISO code, e.g. "US-CA" for United States, California
+ - ISO code prefix, e.g. "US" for United States
+ - ISO code suffix, e.g. "CA" for California
+ - Common name in English, e.g. "California"
+
