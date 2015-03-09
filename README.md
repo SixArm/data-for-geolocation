@@ -1,4 +1,4 @@
-# SixArm.com » Data » <br> Geolocation lists of countries, cities, zip codes, etc.
+# Data » <br> Geolocation lists of countries, cities, zip codes, etc.
 
 These are files from a project of ours, created with data we needed. 
 
